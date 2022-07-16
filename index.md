@@ -61,6 +61,8 @@ npm install
 # Using Yarn
 yarn install
 ```
+> **iOS users:** [You will need to add `react-native-vector-icons` bundled icons to your Xcode project!](https://github.com/oblador/react-native-vector-icons#ios)
+
 
 You will need to create a `.env` file or edit the system environment variable
 Example environment variable is available on `.env.example`
